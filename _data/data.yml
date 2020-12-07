@@ -88,7 +88,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Kanban Simulator
-        link: "kanban"
+        link: "https://github.com/bds0900/kanban"
         tagline: "Developed SQL-based Kanban simulation solution that builds a fog lamp assembly line for automobiles by using C# data visualization and added new functions. Challenges included understanding business logic, the syntax of C#, and creating a good Winform UI"
 
       - title: DevStudio
