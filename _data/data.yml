@@ -36,8 +36,8 @@ sidebar:
         level: Native
 
     interests:
-      - item: Climbing
-        link:
+      - item: Rust
+        link: "https://rust-lang.org"
 
       - item: Snowboarding
         link:
@@ -83,29 +83,27 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: Kanban Simulator
         link: "https://github.com/bds0900/kanban"
-        tagline: "Developed SQL-based Kanban simulation solution that builds a fog lamp assembly line for automobiles by using C# data visualization and added new functions. Challenges included understanding business logic, the syntax of C#, and creating a good Winform UI"
+        tagline: "Developed SQL-based Kanban simulation solution that builds a fog lamp assembly line for automobiles by using C# data visualization and added new functions. Challenges included understanding business logic, the syntax of C#, and creating a good Winform UI."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Attendance Tracker
+        link: "https://github.com/bds0900/client"
+        tagline: "Designed a web application for clients to retrieve the student’s enrolled course list and view the attendance rate by using front-end technologies including Typescript, GraphQL, and React. Challenges included writing effective queries, good UX experience, and creating a good modern web UI."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Shopify Intern Challenge
+        link: "https://github.com/bds0900/shoppie-front"
+        tagline: "Built a nomination management app to find movies by title and nominate movies by clicking."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Patient Management
+        link: "https://github.com/bds0900/EMS2"
+        tagline: "An electronic medical system to record patient’s information such as demography, appointment, and billing with MVC pattern."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Pizza Shop
+        link: "https://github.com/bds0900/pizza"
+        tagline: "Designed and developed a web application for customers to order pizza and side dishes. Composed of three programs, API, API consumer, and identity server. Blazor server, ASP .NET, Postgres, and Docker are used in this project."
 
 
 
@@ -114,13 +112,13 @@ skills:
 
     toolset:
       - name: C# & .Net
-        level: 98%
+        level: 90%
 
       - name: Javascript & React
-        level: 98%
+        level: 80%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
       - name: C++
         level: 60%
@@ -129,7 +127,7 @@ skills:
         level: 85%
             
       - name: GraphQL
-        level: 85%
+        level: 80%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
