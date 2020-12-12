@@ -30,7 +30,7 @@ sidebar:
         level: Professional
 
       - idiom: Chinese
-        level: Professional
+        level: Native
 
       - idiom: Korean
         level: Native
@@ -39,21 +39,16 @@ sidebar:
       - item: Rust
         link: "https://rust-lang.org"
 
-      - item: Snowboarding
-        link:
-
       - item: Cooking
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a Korean who spent most of my teenage life in China. 
+      I am fluent in both Korean and Chinese. 
+      I majored in Chinese and Multiculture studies at Kosin University. 
+      While volunteering in Shenzhen, China, I was exposed to many cutting edge technology, which led me to switch my gear to new area - Software developing.
 education:
     - degree: Advanced Deploma
       university: Conestoga College
@@ -65,20 +60,22 @@ education:
         - Advanced SQL
         - System Programming
         - Service Oriented Architecture
+   - degree: Bachelor
+      university: Kosin University
+      time: 2010 - 2016
+      details: |
+        - Chinese Literature
+        - Chinese Culture
+        - Chinese
     
 experiences:
-    - role: Assistant Teacher
+    - role: Assistant Teacher (Volunteer)
       time: 2016 - 2017
       company: Oriental English School - Shenzhen, China
       details: |
           - Taught middle school and high school students Korean and Mandarin
           - Developed teaching aids, performance measurements to evaluate student progress
-    - role: Service Person
-      time: 2012 - 2014
-      company: 3rd Logistics Support Command - Incheon, South Korea
-      details: |
-          - Served in Logistics Warehouse of general equipment and military equipment
-          - Handled and recorded the parts of the weapons and equipment
+
           
 projects:
     title: Projects
